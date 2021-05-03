@@ -1,0 +1,1 @@
+java -jar target\chessarchived-jar-with-dependencies.jar

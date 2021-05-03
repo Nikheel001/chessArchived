@@ -1,0 +1,1 @@
+java -Dconfig="./external.properties" -jar target\chessarchived-jar-with-dependencies.jar
